@@ -1,5 +1,5 @@
 ### Hi, I'm Omid 👋
-
+<a href="https://stackoverflow.com/users/13139895/omid-foroqi"><img src="https://stackoverflow.com/users/flair/13139895.png?theme=dark" width="208" height="58" alt="profile for Omid Foroqi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Omid Foroqi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 [![Twitter Follow](https://img.shields.io/twitter/follow/omidforoqi?color=EF882D&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=omidforoqi)
 
 ## I'm a Son, Developer, and Trainee!!
